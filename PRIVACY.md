@@ -12,7 +12,7 @@ Se scegli un file che sta su Google Drive o su un altro servizio, lo scarica que
 
 Il progetto in corso resta nella memoria dell'app. Si cancella disinstallando l'app o cancellandone i dati da Android.
 
-Se usi le atmosfere musicali, l'app ascolta e scarica i brani dal sito incompetech.com. Quel sito riceve il brano richiesto e l'indirizzo IP del telefono, come per qualsiasi pagina web. Non riceve i tuoi video, le foto o altri dati personali.
+Se usi le atmosfere musicali, l'app ascolta e scarica i brani dai siti incompetech.com e audionautix.com. Quei siti ricevono il brano richiesto e l'indirizzo IP del telefono, come per qualsiasi pagina web. Non ricevono i tuoi video, le foto o altri dati personali.
 
 Se offri un caffè, il pagamento è gestito da Google Play oppure da PayPal, secondo le loro regole. L'app non vede i tuoi dati di pagamento.
 
