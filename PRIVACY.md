@@ -1,6 +1,6 @@
 # Informativa sulla privacy — Montaggio
 
-Ultimo aggiornamento: 5 novembre 2026
+Ultimo aggiornamento: 6 novembre 2026
 
 Titolare: Enrico D'Amico, amicoen@gmail.com
 
@@ -11,5 +11,7 @@ Foto, video e musica si aprono quando li scegli tu dal selettore di Android o qu
 Se scegli un file che sta su Google Drive o su un altro servizio, lo scarica quel servizio, secondo le sue regole.
 
 Il progetto in corso resta nella memoria dell'app. Si cancella disinstallando l'app o cancellandone i dati da Android.
+
+Se offri un caffè, il pagamento è gestito da Google Play oppure da PayPal, secondo le loro regole. L'app non vede i tuoi dati di pagamento.
 
 Per domande: amicoen@gmail.com.
